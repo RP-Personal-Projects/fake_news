@@ -78,3 +78,5 @@ Fake news detection methods can be categorised based on several criteria [1, 2]:
 | | Sprinklr | Enterprise misinfo detection | Brand protection | Australian clients |
 | Academic-Commercial | Various university partnerships | Research-based consulting | Specialized detection | Nationally distributed |
 
+
+
